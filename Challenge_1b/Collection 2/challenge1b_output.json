@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T18:32:22.250493"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "purposes that do not include training a Large Language Model (“LLM”). Examples of",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "•",
+      "importance_rank": 2,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Benefits of generative AI features",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "app experience as described above. After activation, a user must engage AI Assistant or",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Overview of generative AI features",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "purposes that do not include training a Large Language Model (“LLM”). Examples of \nproduct improvement include improving the operability of generative AI in Acrobat \nand Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not \nwish to share your content, please uncheck the product improvement checkbox when \nyou first provide feedback on a document. \nIf manual review of your content takes place, a limited group of trained Adobe personnel \nexamine the content within an encrypted repository with access controls. \nWhat steps do we take to protect your content when you share it with us as part of \nproviding feedback?",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "• \nDownload Form Field Data - Downloads a CSV file of the field-level content for all \nchild agreements spawned from this parent Bulk Send that have been completed. \n• \nDownload Individual Files - Provides the option to download the individual PDF files \nif multiple files were used to create the web form. \n• \nHide/Unhide Bulk Send- Hide/Unhiding the Bulk Send simply removes (or adds) the \nBulk Send from your normal Manage page view. \n• \nShare - Shares the Bulk Send along with its status with the user email you provide. \nShared web forms can be viewed on the Manage page, but do not allow editing. \n• \nA PDF copy of the Bulk Send parent document (without added fields) is emailed to the \nsharee.",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android). It isn't available on iPad or Android tablets. \n \n \nBenefits of generative AI features \nThe generative AI features in Acrobat and Acrobat Reader significantly improve \ncomprehension, help you get insights, and produce high-quality content quickly. Here are the \nmain benefits. \n \n- \nImproved comprehension: You can better understand complex PDF documents \nbecause the features provide insights and more context around the content. \n- \nEnhanced productivity: Work across multiple PDFs and documents in various formats, \nincluding Teams and Zoom meeting transcripts, streamlining your workflow and \nsaving time for higher-priority tasks.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "app experience as described above. After activation, a user must engage AI Assistant or \ngenerative summary on a specific file before processing takes place. \nNote:  \nThe generative AI features are only available in English for users with Individual or Teams \nentitlements. Users with Enterprise entitlements may only receive Acrobat generative AI \nfeatures when their admin assigns them with a paid or trial license, or if they are accepted into \none of the programs in our private beta. \nYou can disable the generative AI feature by following the steps outlined here. Once disabled, \nno documents will be processed through generative AI in Acrobat until you activate the \nfeature set again. \nWhat LLMS are we leveraging to power generative ai in acrobat?",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary. \n \nNote: The generative AI features in Acrobat and Acrobat Reader support English, French, \nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, \nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling \npractices, see Content usage and handling practices. \n \nThe AI-powered features in Acrobat and Acrobat Reader support multiple document types, \nincluding PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and \nZoom meeting transcripts. The capabilities improve comprehension and save time across \nvarious document types.",
+      "page_number": 2
+    }
+  ]
+}

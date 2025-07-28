@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T20:36:24.086845"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Bratkartoffeln (Fried Potatoes)",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Pajeon (Pancakes)",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nNaan \n• \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1/2 cup warm water \no 2 1/2 cups flour \no 1/2 cup yogurt \no 1/4 cup melted butter \no 1 teaspoon salt \n• \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy. \no Mix flour and salt in a bowl, then add yeast mixture, yogurt, and melted butter. \no Knead until smooth, then let rise until doubled. \no Divide dough into balls and roll out into circles. \no Cook on a hot griddle until bubbles form, then flip and cook the other side. \no Brush with melted butter and serve warm.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika \no 1 teaspoon salt \no Oil for frying \n• \nInstructions: \no Mix flour, butter, water, and beaten egg to form a dough, then let rest. \no Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with \ncumin, paprika, and salt until cooked. \no Roll out dough and cut into circles. \no Place a spoonful of filling on each circle and fold to seal. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nEscalivada \n• \nIngredients: \no 2 eggplants \no 2 bell peppers \no 2 tomatoes \no 1 small onion \no 1/4 cup olive oil \no 1 teaspoon salt \n• \nInstructions: \no Preheat oven to 400°F (200°C). \no Roast eggplants, bell peppers, tomatoes, and onion until tender. \no Peel and slice vegetables. \no Arrange on a plate and drizzle with olive oil.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer \nfor 20 minutes. \no Add fish fillets, shrimp, and mussels, cook until seafood is done. \no Serve hot with crusty bread. \n \nBratkartoffeln (Fried Potatoes) \n• \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 2 tablespoons butter \no 1 teaspoon salt \no 1/2 teaspoon pepper \n• \nInstructions: \no Boil potatoes until tender, then slice. \no Cook diced bacon until crispy, then remove and set aside. \no Sauté sliced potatoes and diced onion in butter until golden. \no Stir in bacon, salt, and pepper. \no Serve warm.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "• \nInstructions: \no Form risotto into balls and stuff with a cube of mozzarella. \no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBaba Ganoush \n• \nIngredients: \no 2 eggplants \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n• \nInstructions: \no Roast eggplants until soft, then peel and mash. \no Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n• \nIngredients: \no 1 cup flour \no 1 cup water \no 1 egg \no 1/2 cup green onions \no 1/2 cup seafood (optional) \no 1 tablespoon soy sauce \no 1 tablespoon sesame oil \n• \nInstructions: \no Mix flour, water, and beaten egg in a bowl. \no Add chopped green onions and seafood (if using). \no Heat sesame oil in a pan and pour in batter. \no Cook until golden on both sides. \no Serve with soy sauce for dipping.",
+      "page_number": 1
+    }
+  ]
+}

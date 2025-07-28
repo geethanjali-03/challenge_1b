@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends",
+    "processing_timestamp": "2025-07-28T18:26:17.661208"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotels",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Hotels",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for Adults",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for All Seasons",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Special Considerations",
+      "importance_rank": 5,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Hotels \nBudget-Friendly Hotels \n\u2022 \nIbis Budget Nice Californie Lenval (Nice): A budget-friendly hotel o\ufb00ering comfortable \nrooms and easy access to the beach and city center. The modern amenities and \nconvenient location make it a great choice for budget-conscious travelers. \n\u2022 \nHotel Le Saint Paul (Nice): A charming hotel located in a historic building, o\ufb00ering \na\ufb00ordable rates and beautiful views of the Mediterranean. The cozy rooms and \nfriendly service make it a pleasant stay. \n\u2022 \nHotel des Arts (Montpellier): A budget-friendly hotel located in the heart of \nMontpellier, o\ufb00ering comfortable rooms and easy access to the city's attractions. The \nartistic decor and central location make it a popular choice.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Hotels \n\u2022 \nGrand-H\u00f4tel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious \nhotel set on 7 hectares of Mediterranean gardens, o\ufb00ering elegant rooms, a spa, and a \nprivate beach. The exclusive setting and world-class amenities make it a top choice for \nluxury travelers. \n\u2022 \nH\u00f4tel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of \nMonaco, o\ufb00ering opulent rooms, a world-class spa, and several Michelin-starred \nrestaurants. The historic grandeur and exceptional service make it a premier \ndestination. \n\u2022 \nCh\u00e2teau Saint-Martin & Spa (Vence): A luxurious hotel set in a historic ch\u00e2teau, \no\ufb00ering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The \ntranquil setting and luxurious amenities make it a perfect getaway.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 \nAdditional Tips: Winter is mild compared to other regions, but it's still important to \npack warm clothing for cooler evenings. Consider packing thermal underwear for \nextra warmth. \nPacking for Adults \nClothing \n\u2022 \nCasual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t-\nshirts, and casual dresses. \n\u2022 \nEvening Wear: Dressier outfits for dining out or events. Pack a nice dress or dress \npants and a blouse/shirt. \n\u2022 \nActive Wear: If you plan on hiking or outdoor activities, pack activewear like leggings, \nshorts, and moisture-wicking tops. \n\u2022 \nSwimwear: Don't forget your swimsuit for beach or pool visits. \n\u2022 \nAccessories: A stylish yet functional bag, a lightweight scarf, and a versatile jacket.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for All Seasons \nSpring (March to May) \n\u2022 \nClothing: Light sweaters, long-sleeve shirts, t-shirts, and a light jacket or raincoat. \n\u2022 \nFootwear: Comfortable walking shoes and sandals. \n\u2022 \nAccessories: Sunglasses, a hat, and a small umbrella. \n\u2022 \nAdditional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy \ndays. Consider packing a lightweight scarf for cooler evenings. \nSummer (June to August) \n\u2022 \nClothing: Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, shorts, \nsundresses, and swimwear. \n\u2022 \nFootwear: Sandals, flip-flops, and comfortable walking shoes. \n\u2022 \nAccessories: Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bottle.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 \nAdditional Tips: Bring a favorite stu\ufb00ed animal or comfort item to help kids feel at \nhome. Consider packing a travel potty for young children. \n \nSpecial Considerations \nBeach Trips \n\u2022 \nBeach Bag: A large, waterproof bag for essentials. \n\u2022 \nTowels: Lightweight, quick-drying beach towels. \n\u2022 \nBeach Toys: Buckets, shovels, and toys for kids. \n\u2022 \nSnorkeling Gear: Bring your own gear for a better fit and comfort. \n\u2022 \nAdditional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and \nsnacks. Consider bringing a waterproof phone case to protect your device. \nHiking and Outdoor Activities \n\u2022 \nBackpack: A sturdy, comfortable backpack for essentials. \n\u2022 \nWater Bottle: A reusable water bottle. \n\u2022 \nFirst Aid Kit: A small kit with band-aids, antiseptic wipes, and medications.",
+      "page_number": 7
+    }
+  ]
+}
